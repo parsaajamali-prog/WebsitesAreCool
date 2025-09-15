@@ -1,0 +1,56 @@
+#body1{
+    background-image: url(photos/gypsy.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#body2{
+    background-image: url(photos/coolphoto.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: beige;
+}
+#body3{
+    background-image: url(photos/yolo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color:beige;
+}
+#body4{
+    background-image: url(photos/Ambrosia_02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color:beige;
+}
+#body5{
+    background-image: url(photos/Ambrosia_04.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color:rgb(0, 0, 0);
+}
+#body6{
+    background-image: url(photos/Vice_City_08.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color:rgb(0, 187, 255);
+}
+.list {
+  list-style: none;
+  text-align: center;
+  padding: 20;
+}
+.list li {
+  display: inline-block;
+  margin: 0 10px;
+}
